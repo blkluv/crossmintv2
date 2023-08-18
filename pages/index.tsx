@@ -131,9 +131,9 @@ export async function getStaticProps() {
     decentNft: true,
     address: '0x6Ea2431636B7fB013C995cF846a9C761e535644B',
     chainId: 137,
-    mintPrice: "0.0",
+    mintPrice: "0.0044",
     maxTokens: 4294967295,
-    sellOutDate: 4294967295
+    sellOutDate: Infinity
   }
   {/* --------------------------------------------------------------- */}
 
